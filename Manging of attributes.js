@@ -16,3 +16,4 @@ console.log(a);
 let checkAt = element.hasAttribute('class');
 console.log(checkAt); //return fasle becuz in above lines we remove the class attribute
 
+
